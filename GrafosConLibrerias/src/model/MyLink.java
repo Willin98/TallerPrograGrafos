@@ -8,7 +8,7 @@ public class MyLink {
 	 int edgeCount;
 
 	 public MyLink(double weight, double capacity) {
-	this.id = edgeCount++; // This is defined in the outer class.
+	 this.id = edgeCount++; // This is defined in the outer class.
 	 this.weight = weight;
 	 this.capacity = capacity;
 	 }
